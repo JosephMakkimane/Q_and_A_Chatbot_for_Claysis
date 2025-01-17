@@ -1,0 +1,6 @@
+!pip install langchain
+!pip install huggingface_hub
+!pip install pinecone-client
+!pip install sentence_transformers
+!pip install langchain_community
+!pip install pypdf
