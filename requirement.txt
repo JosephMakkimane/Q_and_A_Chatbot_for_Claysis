@@ -1,6 +1,11 @@
-!pip install langchain
-!pip install huggingface_hub
-!pip install pinecone-client
-!pip install sentence_transformers
-!pip install langchain_community
-!pip install pypdf
+Packages to be installed:
+langchain
+huggingface_hub
+pinecone-client
+sentence_transformers
+langchain_community
+pypdf
+
+Tokens required:
+HF_TOKEN = HUGGINGFACE_API_TOKEN
+PC_TOKEN = PINECONE_API_TOKEN
